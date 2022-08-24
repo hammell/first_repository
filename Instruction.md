@@ -23,3 +23,15 @@
 Для фиксации изменений в файле выполните команду:
 
     git commit -m "<message>"
+
+git commit -a
+git commit -am
+git diff
+git log
+git log --oneline
+git log --all
+git log --oneline --all
+git checkout
+
+
+
