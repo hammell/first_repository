@@ -72,5 +72,7 @@
 
         git branch <branching>
 
-
 * Для переключения между имеющимися ветками используй команду:
+
+        git checkout <master>
+
