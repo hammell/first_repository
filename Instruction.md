@@ -81,3 +81,7 @@
         git branch -d branching
 
 *Пример ветвлений*
+    
+* ветка brenching (с разрешенным конфликтом)
+
+* ветка hali
