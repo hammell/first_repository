@@ -97,3 +97,7 @@
 * ветка parra
 
 * ветка trupper
+
+### Краткий пример порядка использования команд
+
+    git branch - git branch <branching> - git checkout <master> - git merge <parra> - git branch -d <branching> - git log --all --oneline graph
