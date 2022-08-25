@@ -76,13 +76,17 @@
 
         git checkout <master>
 
+* Для слияния двух ветвей необходимо использовать команду:
+
+        git merge <parra>
+
 * Для удаления не нужной ветки примените команду:
 
-        git branch -d branching
+        git branch -d <branching>
 
 *Пример ветвлений*
     
-* ветка brenching (с разрешенным конфликтом)
+* ветка branching (с разрешенным конфликтом)
 
 * ветка hali
 
