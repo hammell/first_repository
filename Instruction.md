@@ -87,3 +87,5 @@
 * ветка hali
 
 * ветка parra
+
+* ветка trupper
