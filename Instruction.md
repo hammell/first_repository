@@ -78,4 +78,6 @@
 
 * Для удаления не нужной ветки примените команду:
 
-git branch -d branching
+        git branch -d branching
+
+*Пример ветвлений*
