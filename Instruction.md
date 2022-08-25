@@ -76,3 +76,6 @@
 
         git checkout <master>
 
+* Для удаления не нужной ветки примените команду:
+
+git branch -d branching
