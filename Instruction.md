@@ -101,3 +101,23 @@
 ### Краткий пример порядка использования команд
 
     git branch - git branch <branching> - git checkout <master> - git merge <parra> - git branch -d <branching> - git log --all --oneline graph
+
+# Работа с удаленным репозиторием
+
+Для добавления своего репозитория на https://github.com/ необходимо "запушить" свой репозиторий, для этого выполните команды:
+
+1.      git remote add origin https://github.com/<hammell/first_repository.git>
+
+*указывает на то куда копируется репозиторий*
+
+2.      git branch -M  < main > 
+
+_Указывает на ту ветку, которая будет скопирована_
+
+*будте внимательны с названем текущей ветки*
+
+3.      git push -u origin < main >
+
+_Непосредственно команда копирования_
+
+*будте внимательны с названем текущей ветки*
